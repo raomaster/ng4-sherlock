@@ -9,12 +9,15 @@ import {CollectorService} from './collector.service';
   providers: [CollectorService]
 })
 export class CollectorComponent implements OnInit {
-  caption = 'Some news worth investigating';
-  headlines;
+  caption = 'Algunas noticias siendo investigadas';
+  headlines: any[];
   isContainer = true;
 
   constructor(collectorService: CollectorService) {
-    this.headlines = collectorService.getHeadlines();
+    collectorService.getHeadlines()
+      .subscribe( data => {
+        this.headlines = data;
+      });
   }
 
   ngOnInit() {

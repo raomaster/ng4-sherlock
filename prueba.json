@@ -1,0 +1,256 @@
+{
+  "query": {
+    "count": 49,
+    "created": "2017-04-27T22:58:06Z",
+    "lang": "es-ES",
+    "diagnostics": {
+      "publiclyCallable": "true",
+      "url": {
+        "execution-start-time": "1",
+        "execution-stop-time": "174",
+        "execution-time": "173",
+        "content": "http://rss.cnn.com/rss/edition.rss?format=xml"
+      },
+      "user-time": "182",
+      "service-time": "173",
+      "build-version": "2.0.92"
+    },
+    "results": {
+      "item": [
+        {
+          "link": "http://www.cnn.com/2017/04/27/politics/donald-trump-agenda/index.html",
+          "title": "Trump barks but struggles to find bite during first 100 days",
+          "description": "President Donald Trump is all about the bark -- bold, aggressive promises."
+        },
+        {
+          "title": "Interactive: stories you may have missed during Trump's first 100 days",
+          "link": "http://cnn.it/2qcT9Iy"
+        },
+        {
+          "title": "Terror knife attack 'foiled' outside British parliament",
+          "link": "http://www.cnn.com/2017/04/27/europe/uk-whitehall-london-security-incident/index.html"
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/politics/uss-dewey-navy-helicopter-crash/index.html",
+          "title": "US Navy destroyer loses helicopter in mid-flight crash",
+          "description": "A US destroyer rescued two pilots and a crewman Wednesday after their Navy helicopter crashed in the waters near Guam, according to the service. "
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/middleeast/syria-damascus-airport-blast/index.html",
+          "title": "Syria blames Israel for airport area blast",
+          "description": "A loud explosion hit close to the Damascus International Airport in Syria Thursday, according to the London-based Syrian Observatory for Human Rights. "
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/europe/brexit-germany-merkel-uk/index.html",
+          "title": "Merkel warns against UK 'illusions' over Brexit",
+          "description": "German Chancellor Angela Merkel has warned Britain not to hold any \"illusions\" about what Brexit means for its future, adding that it \"cannot and will not have the same rights as a member of the EU.\""
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/politics/michael-flynn-foreign-payments-investigation/index.html",
+          "title": "Obama blamed for not properly vetting Trump's former national security adviser",
+          "description": "Former national security adviser Michael Flynn was warned by the Defense Intelligence Agency in 2014 against accepting foreign payments as he entered retirement, according to new documents obtained by the House oversight committee. "
+        },
+        {
+          "link": "http://www.cnn.com/videos/politics/2017/04/25/spicer-white-house-briefing-flynn-bts.cnn",
+          "title": "Spicer: We don't know if Flynn broke law",
+          "description": "White House Press Secretary Sean Spicer responds to reports that President Trump's former national security adviser, Michael Flynn, failed to disclose payments from Russia."
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/asia/mother-thailand-baby-killed-facebook/index.html",
+          "title": "Mom looked on in horror as baby killed on Facebook",
+          "description": "Jiranuj Trairat could hear the sudden panic in her cousin's voice. "
+        },
+        {
+          "title": "Russian ship sinks in Black Sea after collision",
+          "link": "http://www.cnn.com/2017/04/27/europe/russian-ship-sinks-black-sea/index.html"
+        },
+        {
+          "title": "United settles with passenger dragged off plane",
+          "link": "http://money.cnn.com/2017/04/27/news/companies/united-airlines-dao-settlement/index.html"
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/politics/donald-trump-kids/index.html",
+          "title": "This photo of Donald Trump and kids is epic",
+          "description": "Thursday, as you likely know by now, is \"Take Our Daughters and Sons To Work\" day. The White House, like CNN and virtually every other company, celebrates this day with a special program of activities. Except, at the White House, you actually get to meet the president of the United States."
+        },
+        {
+          "link": "http://www.cnn.com/videos/us/2017/04/27/fox-news-jesse-watters-ivanka-microphone-comment-panel-ctn.cnn",
+          "title": "Fox host under fire for Ivanka Trump comment ",
+          "description": "Fox News host Jesse Watters is receiving backlash for a comment he made about the way Ivanka Trump was holding her microphone during a summit in Berlin. "
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/us/cocaine-found-under-pants-trnd/index.html",
+          "title": "Airline passengers caught with 10 kilos of cocaine in pants",
+          "description": "Customs and Border Protection officers at New York's JFK airport said they captured two more passengers who attempted to smuggle drugs by strapping packages of cocaine to their legs. "
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/asia/taiwanese-couple-rescued-nepal/index.html",
+          "title": "Hiker alive after 7 weeks lost in Himalayas",
+          "description": "Two Taiwanese hikers have been found after going missing in Nepal for almost seven weeks, but one had died three days before help arrived. "
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/travel/johnny-depp-disneyland-surprise-trnd/index.html",
+          "title": "Johnny Depp turns up at Disneyland as Jack Sparrow (and fans lose it)",
+          "description": "Johnny Depp surprised fans at Disneyland, by popping up on the \"Pirates of the Caribbean\" ride in his full Capt. Jack Sparrow costume."
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/us/delta-passenger-incident-trnd/index.html",
+          "title": "Man kicked off Delta flight for using bathroom before takeoff",
+          "description": "A man says he was ejected from a Delta Air Lines flight because he went to the bathroom while waiting for the plane to leave the Atlanta airport."
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/europe/le-pen-macron-whirlpool-france-election/index.html",
+          "title": "French election turns dirty at dryer factory",
+          "description": "A factory that produces tumble dryers has become the dirtiest battlefield yet in the French presidential election. "
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/asia/bollywood-vinod-khanna-dead/index.html",
+          "title": "Bollywood's 'original heartthrob' dies",
+          "description": "Veteran Indian actor Vinod Khanna has died at the age of 70, according to CNN affiliate, News 18. "
+        },
+        {
+          "link": "http://www.cnn.com/videos/world/2017/04/27/woman-crane-toronto-zw-orig.cnn",
+          "title": "Woman gets stuck on top of crane",
+          "description": "Officials do not yet know how a 23-year-old woman got stuck on top of a crane in downtown Toronto."
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/health/nasa-cassini-saturn-ring-dive/index.html",
+          "title": "Cassini probe shoots through Saturn's rings",
+          "description": "NASA's Cassini spacecraft has successfully executed its daring dive through the 1,500-mile-wide gap between Saturn and its rings, the first time a man-made object has navigated through the icy halo that hugs the gas giant. "
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/health/narcolepsy-marathon-runner-julie-flygare/index.html",
+          "title": "'Having narcolepsy is harder than marathon'",
+          "description": "For years, Julie Flygare kept her condition private. She hadn't liked people's reactions on the occasions when she had opened up and shared her story. People thought it was a joke or not important. "
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/europe/boris-johnson-mugwump-corbyn/index.html",
+          "title": "Boris Johnson calls party leader 'mugwump'",
+          "description": "British Foreign Secretary Boris Johnson stepped into the UK election fray Thursday with an editorial describing Labour leader Jeremy Corbyn as a \"mutton-headed old mugwump.\""
+        },
+        {
+          "link": "http://www.cnn.com/videos/world/2017/04/26/toddler-run-over-twice-in-china-rdr-mobile.hln",
+          "title": "Toddler run over twice, then this happens",
+          "description": "A toddler survives being run over twice in a row on a busy street in China."
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/sport/yorkshire-cycling-revolution/index.html",
+          "title": "85-year-old unlikely star of cycling revolution",
+          "description": "An 85-year-old is the unlikely star of Britain's cycling revolution."
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/sport/nfl-draft-day-coy-wire-hines-ward-philadelphia/index.html",
+          "title": "What it's like to make it through the NFL draft",
+          "description": "They will walk in the footsteps of giants as they descend Philadelphia's Rocky Steps to a life in the NFL. "
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/health/stealthing-sexual-assault-condoms/index.html",
+          "title": "Some call it 'stealthing,' others call it sexual assault",
+          "description": "Some people call it \"stealthing\" -- a practice where men secretly remove or damage condoms without their partners' knowledge. Others call it sexual assault."
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/arts/art-record-covers/index.html",
+          "title": "10 unforgettable album covers",
+          "description": "When Columbia Records introduced the first LPs in 1948, they didn't just change how we listen to music. They also changed how we see it by popularizing illustrated album covers. (Before WWII, most records typically came in generic sleeves.) "
+        },
+        {
+          "title": "Heineken teaches Pepsi how to tackle social issues in ads",
+          "link": "http://money.cnn.com/2017/04/27/news/companies/heineken-ad/index.html"
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/us/10-bands-facebook-meme-trnd/index.html",
+          "title": "Why are people posting this '10 bands' Facebook meme?",
+          "description": "Your friends have seen a lot of bands, if you haven't noticed."
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/tennis/andy-murray-sanchez-casal-academy/index.html",
+          "title": "The making of a tennis star",
+          "description": "If the pinnacle of Andy Murray's career so far took place on the pristine green courts of Wimbledon, the world No. 1 owes much of his success to the rugged, red clay of Barcelona."
+        },
+        {
+          "title": "Major global stories you may have missed",
+          "link": "http://edition.cnn.com/interactive/2017/04/world/global-100-days/"
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/politics/100-days-that-changed-america/index.html",
+          "title": "100 days that changed America",
+          "description": "The first 100 days is not just about the new President."
+        },
+        {
+          "title": "Poll: Trump's approval ratings have worsened",
+          "link": "http://www.cnn.com/2017/04/26/politics/donald-trump-100-days-poll/index.html"
+        },
+        {
+          "title": "Photographing the US President",
+          "link": "http://cnn.it/2q9zeHT"
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/25/us/michelle-obama-mural-chicago-trnd/index.html",
+          "title": "Nobody's happy with this Michelle Obama mural",
+          "description": "A new mural of former first lady Michelle Obama, painted on a building in the Chicago neighborhood where she lived as a child and remains popular, would seem like an innocuous project."
+        },
+        {
+          "title": "Marine Le Pen: Why she's no ordinary politician",
+          "link": "http://www.cnn.com/2017/04/27/europe/marine-le-pen-person-behind-party/index.html"
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/travel/south-africa-best-places/index.html",
+          "title": "23 beautiful reasons to visit South Africa",
+          "description": "Its human history is checkered, but South Africa's natural wonders have never been less than glorious."
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/26/architecture/famous-fictional-houses-one-square-meter/index.html",
+          "title": "How much Gatsby's mansion REALLY cost",
+          "description": "From Great Gatsby's luxury estate to Count Dracula's Transylvanian lair and Amelie Poulain's tiny Parisian pad, the houses in which our favorite fictional characters reside are often inspired by real-life properties."
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/26/golf/golf-japan-manga-golf-lesson-comic/index.html",
+          "title": "Is manga the miracle cure for your golf game?",
+          "description": "Might the key to curing your slice lie in the age-old Japanese art form of manga?"
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/opinions/trump-has-left-a-moral-vacuum-leslie-opinion/index.html",
+          "title": "Leslie Vinjamuri: Trump's rhetoric eroding America's moral authority",
+          "description": "This weekend marks the end of President Donald Trump's first 100 days in office."
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/27/opinions/what-trump-can-learn-from-saudi-arabia-opinion-obaid/index.html",
+          "title": "Nawaf Obaid: Trump can end ISIS by learning from Saudi Arabia",
+          "description": "Given the decision this month to drop \"the mother of all bombs\" on an ISIS stronghold in Afghanistan, it's clear the United States now intends to deliver on President Donald Trump's campaign pledge to destroy the terrorist group. "
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/26/opinions/how-dangerous-is-situation-in-north-korea-graham-opinion/index.html",
+          "title": "Euan Graham: Neither Trump or Kim wants war",
+          "description": "The funny thing about tension on the Korean Peninsula is that the further away from it one is, the closer to war it appears."
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/26/opinions/trump-is-confounding-his-critics-opinion-gardiner/index.html",
+          "title": "Nile Gardiner: Trump is confounding his critics ",
+          "description": "When Donald Trump won an astounding electoral victory on November 8, much of the world took a deep, nervous breath. From Berlin to Beijing, world leaders were clearly apprehensive, uncertain of what the next four years would hold."
+        },
+        {
+          "title": "No fees on International Payments",
+          "link": "https://cnnmoneytransfers.com/?utm_source=cnni&utm_medium=hp-rhr-pz&utm_campaign=position_1"
+        },
+        {
+          "title": "Fix your Exchange Rates today with ",
+          "link": "https://cnnmoneytransfers.com/our-services/?utm_source=cnni&utm_medium=hp-rhr-pz&utm_campaign=position2"
+        },
+        {
+          "title": "Buy and Sell in 33 currencies with",
+          "link": "https://www.cnnmoneytransfers.com/online-payments/?utm_source=cnni&utm_medium=hp-rhr-pz&utm_campaign=position_3"
+        },
+        {
+          "link": "http://www.cnn.com/2017/04/12/world/truckers-human-trafficking-freedom-project/index.html",
+          "title": "How hero trucker saved a sex trafficking victim",
+          "description": "There was a time when truck driver Kevin Kimmel knew little about the scourge of human trafficking. That all changed when he pulled into a gas station in New Kent County, Virginia, on the morning of January 6, 2015."
+        },
+        {
+          "link": "http://www.cnn.com/2016/12/19/americas/costa-rica-migration/index.html",
+          "title": "Thousands risk their lives to reach USA",
+          "description": "Yolanda ticks off the countries she and her husband have passed through in the last three months: Brazil, Peru, Ecuador, Colombia, Panama and now Costa Rica. But she is no tourist. "
+        }
+      ]
+    }
+  }
+}

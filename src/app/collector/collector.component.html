@@ -8,7 +8,8 @@
         <div class="row" [style.backgroundColor]="o ? 'Khaki':'ivory'">
           <input type="checkbox" #cb
                  (change)="onChange(headline, cb.checked)">
-           {{i+1}} - {{headline}}
+           {{i+1}} - {{headline.title}}
+          <a href="{{ headline.link }}">(Leer más)</a>
         </div>
       </li>
     </ul>
