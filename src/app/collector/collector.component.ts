@@ -1,5 +1,7 @@
+import { AngularFire, FirebaseObjectObservable, FirebaseListObservable } from 'angularfire2';
 import {Component, OnInit} from '@angular/core';
 import {CollectorService} from './collector.service';
+
 
 
 @Component({
@@ -13,7 +15,13 @@ export class CollectorComponent implements OnInit {
   headlines: any[];
   isContainer = true;
 
-  constructor(collectorService: CollectorService) {
+  // setting up the item like a observable
+  private items: FirebaseListObservable<any>;
+
+  constructor(collectorService: CollectorService, af: AngularFire) {
+
+    this.items = af.database.list('/collector');
+
     collectorService.getHeadlines()
       .subscribe( data => {
         this.headlines = data;
@@ -23,8 +31,9 @@ export class CollectorComponent implements OnInit {
   ngOnInit() {
   }
 
-  onChange( prueba: any , checked: boolean) {
-    console.log(prueba, checked);
+  onChange( news, checked: boolean) {
+    // console.log(prueba, checked);
+    this.items.push({ news });
   }
 
 }

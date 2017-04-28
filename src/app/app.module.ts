@@ -1,3 +1,5 @@
+import { AngularFireModule} from 'angularfire2';
+
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { FormsModule } from '@angular/forms';
@@ -16,7 +18,14 @@ import { AutopilotComponent } from './autopilot/autopilot.component';
 import { AccuracyComponent } from './accuracy/accuracy.component';
 import { NavigationComponent } from './navigation/navigation.component';
 
-
+export const firebaseConfig = {
+    apiKey: 'AIzaSyC1D9Q-4F6zA4jw5Hzn-nX8hoNyjZv1cYY',
+    authDomain: 'ng4-sherlock.firebaseapp.com',
+    databaseURL: 'https://ng4-sherlock.firebaseio.com',
+    projectId: 'ng4-sherlock',
+    storageBucket: 'ng4-sherlock.appspot.com',
+    messagingSenderId: '246893403904'
+  };
 
 @NgModule({
   declarations: [
@@ -35,7 +44,8 @@ import { NavigationComponent } from './navigation/navigation.component';
     BrowserModule,
     FormsModule,
     HttpModule,
-    RouterModule.forRoot(rootRouterConfig)
+    RouterModule.forRoot(rootRouterConfig),
+    AngularFireModule.initializeApp(firebaseConfig)
   ],
   providers: [],
   bootstrap: [AppComponent]
