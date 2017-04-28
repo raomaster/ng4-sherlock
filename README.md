@@ -2,6 +2,28 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
+
+#Use firebase
+install firebase with:
+`npm install angularfire2 firebase -save`
+`typings install file:node_modules/angularfire2/firebase3.d.ts --save --global && typings install`
+
+Firebase.console rules:
+
+{
+  "rules": {
+    ".read": "auth != null",
+    ".write": "auth != null"
+  }
+}
+
+
+Note: About FirebaseListObservable you can add new items in a collection just pushing the list,whit FirebaseObjectObservable you only override the same object
+
+
+(SoC)	Separation of Concerns
+In computer science, separation of concerns (SoC) is a design principle for separating a computer program into distinct sections, such that each section addresses a separate concern.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
